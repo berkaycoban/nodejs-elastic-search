@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-elastic-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [
+    "nodejs",
+    "elasticSearch"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.2"
+  }
+}
